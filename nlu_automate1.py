@@ -5,7 +5,7 @@ import os
 import openpyxl
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
 # Specify the input file path
 input_file_path = r"C:\Users\Saurabh.Gupta\PycharmProjects\Rasa_Automate\CSVMYIPRV2-FAQs-120723-105113.xlsx"
