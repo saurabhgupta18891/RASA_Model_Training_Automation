@@ -3,7 +3,7 @@ import openai
 import re
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 que="What is the importance of a certificate of creation?"
 # prompt=f"provide 5 paraphrases for given question or prompt - {que} paraphrases:"
 prompt=f'provide 5 paraphrases for given Question,Question:{que}\nParaphrases:'
